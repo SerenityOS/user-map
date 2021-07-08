@@ -125,5 +125,15 @@
       "GitHub": "https://github.com/zaklaus",
       "Twitter": "https://twitter.com/DMadarasz"
     }
+  },
+  {
+    "nick": "IdanHo",
+    "coordinates": [
+      32.79,
+      34.98
+    ],
+    "links": {
+      "GitHub": "https://github.com/IdanHo",
+    }
   }
 ]
