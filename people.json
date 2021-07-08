@@ -204,5 +204,15 @@
       "GitHub": "https://github.com/bgianfo",
       "Twitter": "https://twitter.com/bgianf"
     }
+  },
+  {
+    "nick": "petelliott",
+    "coordinates": [
+      53.631611,
+      -113.323975
+    ],
+    "links": {
+      "Github": "https://github.com/petelliott"
+    }
   }
 ]
