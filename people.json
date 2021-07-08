@@ -170,5 +170,15 @@
       "Website": "https://nicolasmd.com.ar",
       "GitHub": "https://github.com/nicolasdanelon"
     }
+  },
+  {
+    "nick": "boricj",
+    "coordinates": [
+      45.46,
+      6.08
+    ],
+    "links": {
+      "GitHub": "https://github.com/boricj"
+    }
   }
 ]
