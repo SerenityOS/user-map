@@ -192,5 +192,17 @@
     "links": {
       "GitHub": "https://github.com/boricj"
     }
+  },
+  {
+    "nick": "bgianf",
+    "coordinates": [
+      47.6062095,
+      -122.3320708
+    ],
+    "links": {
+      "Website": "https://bjg.io/",
+      "GitHub": "https://github.com/bgianfo",
+      "Twitter": "https://twitter.com/bgianf"
+    }
   }
 ]
