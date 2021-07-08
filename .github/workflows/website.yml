@@ -11,23 +11,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          submodules: "recursive"
 
-      - name: Setup Zig
-        uses: goto-bus-stop/setup-zig@v1
-        with:
-          version: master
-
-      - name: Render website
+      - name: Regenerate people.json
         run: |
-          zig build run
+          jq . -s people/* > docs/people.json
 
-      - name: Deploy with SCP
-        uses: noobly314/deploy-with-scp@v1
+      - name: Commit updated people.json
+        uses: EndBug/add-and-commit@v7
         with:
-          src: website/*
-          dest: usermap/
-          username: generic-ci
-          server-ip: random-projects.net
-          ssh-key: ${{ secrets.WEBSITE_PRIVATE_KEY }}
+          add: docs/people.json
+          author_name: BuggieBot
+          author_email: buggiebot@serenityos.org
+          message: 'Update people.json'

@@ -58,7 +58,7 @@
     </div>
   </div>
   <script>
-    fetch("users.json")
+    fetch("people.json")
       .then(response => response.json())
       .then((data) => {
         var map = L.map('map').setView([0.0, 0.0], 2);
