@@ -278,5 +278,15 @@
       "Website": "https://danielbertalan.dev",
       "GitHub": "https://github.com/BertalanD"
     }
+  },
+  {
+    "nick": "sunverwerth",
+    "coordinates": [
+      52.516,
+      13.377
+    ],
+    "links": {
+      "GitHub": "https://github.com/sunverwerth"
+    }
   }
 ]
