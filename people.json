@@ -267,5 +267,16 @@
     "links": {
       "GitHub": "https://github.com/itamar8910"
     }
+  },
+  {
+    "nick": "BertalanD",
+    "coordinates": [
+      47.093,
+      17.912
+    ],
+    "links": {
+      "Website": "https://danielbertalan.dev",
+      "GitHub": "https://github.com/BertalanD"
+    }
   }
 ]
