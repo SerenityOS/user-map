@@ -245,5 +245,17 @@
     "links": {
       "GitHub": "https://github.com/supercomputer7"
     }
-  } 
+  },
+  {
+    "nick": "vkoskiv",
+    "coordinates": [
+      62.238,
+      25.752
+    ],
+    "links": {
+      "Website": "https://vkoskiv.com",
+      "GitHub": "https://github.com/vkoskiv",
+      "Twitter": "https://twitter.com/vkoskiv"
+    }
+  }
 ]
