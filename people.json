@@ -341,5 +341,15 @@
       "GitHub": "https://github.com/Lisible",
       "Twitter": "https://twitter.com/claymeuns"
     }
+  },
+  {
+    "nick": "Zyper",
+    "coordinates": [
+      50.06772, 19.99156
+    ],
+    "links": {
+      "GitHub": "https://github.com/ZyperPL",
+      "Twitter": "https://twitter.com/zyper_pl"
+    }
   }
 ]
