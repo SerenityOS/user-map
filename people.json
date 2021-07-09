@@ -351,5 +351,16 @@
       "GitHub": "https://github.com/ZyperPL",
       "Twitter": "https://twitter.com/zyper_pl"
     }
+  },
+  {
+    "nick": "alvanrahimli",
+    "coordinates": [
+      40.33361, 49.74521
+    ],
+    "links": {
+      "Website": "https://rahim.li",
+      "GitHub": "https://github.com/alvanrahimli",
+      "FaceBook": "https://facebook.com/alvan.rahimli"
+    }
   }
 ]
