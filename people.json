@@ -310,5 +310,15 @@
       "GitHub": "https://github.com/Reidond",
       "Twitter": "https://twitter.com/Reidond69"
     }
+  },
+  {
+    "nick": "metmo",
+    "coordinates": [
+      59.317472,
+      18.037520
+    ],
+    "links": {
+      "GitHub": "https://github.com/metmo"
+    }
   }
 ]
