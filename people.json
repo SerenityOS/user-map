@@ -330,5 +330,16 @@
     "links": {
       "GitHub": "https://github.com/gootik"
     }
+  },
+  {
+    "nick": "Clements",
+    "coordinates": [
+      44.83806, -0.57781
+    ],
+    "links": {
+      "Website": "https://lisible.xyz",
+      "GitHub": "https://github.com/Lisible",
+      "Twitter": "https://twitter.com/claymeuns"
+    }
   }
 ]
