@@ -299,5 +299,16 @@
       "GitHub": "https://github.com/nooga",
       "Twitter": "https://twitter.com/MGasperowicz"
     }
+  },
+  {
+    "nick": "Reidond",
+    "coordinates": [
+      48.105630,
+      23.764078
+    ],
+    "links": {
+      "GitHub": "https://github.com/Reidond",
+      "Twitter": "https://twitter.com/Reidond69"
+    }
   }
 ]
