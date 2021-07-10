@@ -374,5 +374,15 @@
       "Twitter": "https://twitter.com/tbhaxor",
       "LinkedIn": "https://linkedin.com/in/gurkirat--singh"
     }
+  },
+  {
+    "nick": "Omerktn",
+    "coordinates": [
+      41.034220, 30.305053
+    ],
+    "links": {
+      "GitHub": "https://github.com/Omerktn",
+      "Twitter": "https://twitter.com/okurttekin"
+    }
   }
 ]
