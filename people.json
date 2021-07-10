@@ -384,5 +384,15 @@
       "GitHub": "https://github.com/Omerktn",
       "Twitter": "https://twitter.com/okurttekin"
     }
+  },
+  {
+    "nick": "ADKaster",
+    "coordinates": [
+      39.762,
+      -104.995
+    ],
+    "links": {
+      "GitHub": "https://github.com/ADKaster"
+    }
   }
 ]
