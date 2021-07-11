@@ -354,5 +354,14 @@
       "LinkedIn": "https://www.linkedin.com/in/dennisesternon/",
       "Twitter": "https://twitter.com/djwisdom"
     }
+  },
+  {
+    "nick": "docherak",
+    "coordinates": [50.10340, 14.45050],
+    "links": {
+      "GitHub": "https://github.com/docherak",
+      "Twitter": "https://twitter.com/docherak",
+      "Website": "https://docherak.github.io"
+    }
   }
 ]
