@@ -321,5 +321,13 @@
     "links": {
       "GitHub": "https://github.com/conorbros"
     }
+  },
+  {
+    "nick": "Lubrsi",
+    "coordinates": [53.37976, -1.46991],
+    "links": {
+      "GitHub": "https://github.com/Lubrsi"
+    },
+    "contributor": true
   }
 ]
