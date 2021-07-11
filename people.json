@@ -337,5 +337,13 @@
       "GitHub": "https://github.com/Lubrsi"
     },
     "contributor": true
+  },
+  {
+    "nick": "Ventor",
+    "coordinates": [50.969337, 7.044285],
+    "links": {
+      "GitHub": "https://github.com/flymia",
+      "Twitter": "https://twitter.com/OfficialVentor"
+    }
   }
 ]
