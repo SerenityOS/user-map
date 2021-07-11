@@ -354,5 +354,12 @@
       "LinkedIn": "https://www.linkedin.com/in/dennisesternon/",
       "Twitter": "https://twitter.com/djwisdom"
     }
+  },
+  {
+    "nick": "travisnovak",
+    "coordinates": [48.136, 17.1153],
+    "links": {
+      "GitHub": "https://github.com/travisnovak",
+    }
   }
 ]
