@@ -1,5 +1,13 @@
 [
   {
+    "nick": "gabrielgggg",
+    "coordinates": [40.91316, -73.12032],
+    "links": {
+      "GitHub": "https://github.com/gabrielgggg",
+      "Website": "https://www.gmihalache.com/"
+    }
+  },
+  {
     "nick": "kennethmyhra",
     "coordinates": [59.91102, 10.75313],
     "links": {
@@ -336,7 +344,14 @@
   "links": {
     "GitHub": "https://github.com/djwisdom",
     "LinkedIn": "https://www.linkedin.com/in/dennisesternon/",
-    "Twitter": "https://twitter.com/djwisdom"    
+    "Twitter": "https://twitter.com/djwisdom"
+  },
+  {
+    "nick": "Ventor",
+    "coordinates": [50.969337, 7.044285],
+    "links": {
+      "GitHub": "https://github.com/flymia",
+      "Twitter": "https://twitter.com/OfficialVentor"
+    }
   }
-}
 ]
