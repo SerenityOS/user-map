@@ -354,5 +354,14 @@
       "LinkedIn": "https://www.linkedin.com/in/dennisesternon/",
       "Twitter": "https://twitter.com/djwisdom"
     }
+  },
+  {
+    "nick": "bitwitch",
+    "coordinates": [40.7116322, -73.9576872],
+    "links": {
+      "GitHub": "https://github.com/bitwitch",
+      "Twitter": "https://twitter.com/b1tw1tch",
+      "Website": "https://shawdaddy.com"
+    }
   }
 ]
