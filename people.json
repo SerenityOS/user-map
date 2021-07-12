@@ -366,7 +366,7 @@
   },
   {
     "nick": "docherak",
-    "coordinates": [50.10340, 14.45050],
+    "coordinates": [50.1034, 14.4505],
     "links": {
       "Website": "https://docherak.github.io",
       "GitHub": "https://github.com/docherak",
@@ -374,8 +374,8 @@
     }
   },
   {
-    "nick":"cammo1123",
-    "coordinates":[-33.7,151.3],
+    "nick": "cammo1123",
+    "coordinates": [-33.7, 151.3],
     "links": {
       "GitHub": "https://github.com/cammo1123",
       "Twitter": "https://twitter.com/CameronYouell"
