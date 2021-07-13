@@ -403,5 +403,14 @@
       "GitHub": "https://github.com/tlmrgvf"
     },
     "contributor": true
+  },
+  {
+    "nick": "sin-ack",
+    "coordinates": [47.92, 106.9357],
+    "links": {
+      "GitHub": "https://github.com/sin-ack",
+      "Website": "https://sin-ack.github.io/"
+    },
+    "contributor": true
   }
 ]
