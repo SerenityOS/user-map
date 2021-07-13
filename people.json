@@ -412,5 +412,14 @@
       "Website": "https://sin-ack.github.io/"
     },
     "contributor": true
+  },
+  {
+    "nick": "MadManGaz",
+    "coordinates": [54.5965408, -5.9048654],
+    "links": {
+      "GitHub": "https://github.com/MadManGaz",
+      "Website": "https://www.garymoore.ie",
+      "Twitter": "https://twitter.com/GaryPotatoes"
+    }
   }
 ]
