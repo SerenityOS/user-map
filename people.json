@@ -421,5 +421,14 @@
       "Website": "https://www.garymoore.ie",
       "Twitter": "https://twitter.com/GaryPotatoes"
     }
+  },
+  {
+    "nick": "TobyAsE",
+    "coordinates": [54.07, 9.98],
+    "links": {
+      "GitHub": "https://github.com/TobyAsE",
+      "Website": "https://tobyase.de"
+    },
+    "contributor": true
   }
 ]
