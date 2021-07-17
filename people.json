@@ -430,5 +430,14 @@
       "Website": "https://tobyase.de"
     },
     "contributor": true
+  },
+  {
+    "nick": "devsh0",
+    "coordinates": [23.36, 85.31],
+    "links": {
+      "GitHub": "https://github.com/devsh0",
+      "Twitter": "https://twitter.com/devsh0"
+    },
+    "contributor": true
   }
 ]
