@@ -448,5 +448,13 @@
       "Twitter": "https://twitter.com/dfrojas89",
       "LinkedIn": "https://www.linkedin.com/in/dfrojas/"
     }
+  },
+  {
+    "nick": "rok-povsic",
+    "coordinates": [45.907593, 15.005867],
+    "links": {
+      "GitHub": "https://github.com/rok-povsic"
+    },
+    "contributor": true
   }
 ]
