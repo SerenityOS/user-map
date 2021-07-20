@@ -439,5 +439,14 @@
       "Twitter": "https://twitter.com/devsh0"
     },
     "contributor": true
+  },
+  {
+    "nick": "dfrojas",
+    "coordinates": [3.420687, -76.513813],
+    "links": {
+      "GitHub": "https://github.com/dfrojas",
+      "Twitter": "https://twitter.com/dfrojas89",
+      "LinkedIn": "https://www.linkedin.com/in/dfrojas/"
+    }
   }
 ]
