@@ -463,5 +463,15 @@
     "links": {
       "GitHub": "https://github.com/RVieira00"
     }
+  },
+  {
+    "nick": "kleines Filmröllchen",
+    "coordinates": [48.78302, 9.17992],
+    "links": {
+      "GitHub": "https://github.com/kleinesfilmroellchen",
+      "Website": "https://klfr.spdns.de/",
+      "YouTube": "https://www.youtube.com/c/kleinesfilmroellchen"
+    },
+    "contributor": true
   }
 ]
