@@ -23,6 +23,6 @@ If you're a [contributor](https://github.com/SerenityOS/serenity/graphs/contribu
 
 Some tips:
 
-- You can find your location with either [OpenStreet Maps](https://www.openstreetmap.org/), [Google Maps](https://www.google.com/maps) or your mobile phone if GPS is enabled
+- You can find your location with either [OpenStreetMap](https://www.openstreetmap.org/), [Google Maps](https://www.google.com/maps) or your mobile phone if GPS is enabled
 - `links` is an object where each key will be displayed as a link with the string content as `href`.
 - You decide how precise you want it to be. On your room, just the right street, the center of the city, center of the country. You decide!
