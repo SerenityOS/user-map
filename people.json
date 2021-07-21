@@ -85,6 +85,16 @@
     "contributor": true
   },
   {
+    "nick": "ElectrodeYT",
+    "coordinates": [47.838913, 16.22358],
+    "links": {
+      "Website": "https://electrode.codes",
+      "GitHub": "https://github.com/ElectrodeYT",
+      "YouTube": "https://www.youtube.com/channel/UCG7ncve89LRB_EGRc3A2wog"
+    },
+    "contributor": true
+  },
+  {
     "nick": "breakgimme",
     "coordinates": [52.54682, 19.70638],
     "links": {
