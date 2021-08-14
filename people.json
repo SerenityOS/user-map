@@ -484,5 +484,12 @@
       "YouTube": "https://www.youtube.com/c/kleinesfilmroellchen"
     },
     "contributor": true
+  },
+  {
+    "nick": "Ben Phelps",
+    "coordinates": [47.8481264, 35.1171629],
+    "links": {
+      "GitHub": "https://github.com/benphelps"
+    }
   }
 ]
