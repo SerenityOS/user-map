@@ -306,7 +306,8 @@
     "links": {
       "GitHub": "https://github.com/ZyperPL",
       "Twitter": "https://twitter.com/zyper_pl"
-    }
+    },
+    "contributor": true
   },
   {
     "nick": "alvanrahimli",
