@@ -550,5 +550,13 @@
       "GitHub": "https://github.com/rtobar"
     },
     "contributor": true
+  },
+  {
+    "nick": "Baitinq",
+    "coordinates": [40.4168, 3.7038],
+    "links": {
+      "GitHub": "https://github.com/Baitinq"
+    },
+    "contributor": true
   }
 ]
