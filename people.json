@@ -558,5 +558,13 @@
       "GitHub": "https://github.com/Baitinq"
     },
     "contributor": true
+  },
+  {
+    "nick": "kotrunga",
+    "coordinates": [36.9145, -75.9917],
+    "links": {
+      "Website": "https://coltonhurst.com",
+      "GitHub": "https://github.com/coltonhurst"
+    }
   }
 ]
