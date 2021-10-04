@@ -566,5 +566,12 @@
       "Website": "https://coltonhurst.com",
       "GitHub": "https://github.com/coltonhurst"
     }
+  },
+  {
+    "nick": "awkimball",
+    "coordinates": [42.2392, -88.2738],
+    "links": {
+      "GitHub": "https://github.com/awkimball"
+    }
   }
 ]
