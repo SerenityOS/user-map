@@ -573,5 +573,15 @@
     "links": {
       "GitHub": "https://github.com/awkimball"
     }
+  },
+  {
+    "nick": "foragerDev",
+    "coordinates": [31.418715, 73.079109],
+    "links": {
+      "GitHub": "https://github.com/foragerDev",
+      "Twitter": "https://twitter.com/mohsan0073",
+      "LinkedIn": "https://www.linkedin.com/in/mohsan-ali-01698012b"
+    },
+    "contributor": true
   }
 ]
