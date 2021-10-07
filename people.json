@@ -583,5 +583,13 @@
       "LinkedIn": "https://www.linkedin.com/in/mohsan-ali-01698012b"
     },
     "contributor": true
+  },
+  {
+    "nick": "Tom",
+    "coordinates": [40.7608, -111.891],
+    "links": {
+      "GitHub": "https://github.com/tomuta"
+    },
+    "contributor": true
   }
 ]
