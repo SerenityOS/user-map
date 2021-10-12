@@ -1,5 +1,13 @@
 [
   {
+    "nick": "TomMarius",
+    "coordinates": [50.088, 14.4207],
+    "links": {
+      "Website": "https://tommarius.github.io",
+      "GitHub": "https://github.com/TomMarius"
+    }
+  },
+  {
     "nick": "Ryuu22",
     "coordinates": [37.544393, 127.091702],
     "links": {
