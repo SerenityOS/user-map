@@ -1,5 +1,13 @@
 [
   {
+    "nick": "Undefine",
+    "coordinates": [50.01052, 22.682],
+    "links": {
+      "GitHub": "https://github.com/Undefine-Unity"
+    },
+    "contributor": true
+  },
+  {
     "nick": "TomMarius",
     "coordinates": [50.088, 14.4207],
     "links": {
