@@ -76,26 +76,26 @@
           }).addTo(map);
 
           for (const user of data) {
-            var html = "<h1>" + user.nick + "</h1>";
-            if (user.links) {
-              var first = true;
-              for (const title in user.links) {
-                if (!first) {
-                  html += "<br>";
-                }
-                html +=
-                  '<a target="_blank" href="' +
-                  user.links[title] +
-                  '">' +
-                  title +
-                  "</a>";
-                first = false;
-              }
+            const container = document.createElement("div");
+            const heading = document.createElement("h1");
+            heading.innerText = user.nick;
+
+            container.appendChild(heading);
+
+            for (const [label, link] of Object.entries(user.links)) {
+              const anchor = document.createElement("a");
+              anchor.innerText = label;
+              anchor.href = link;
+              anchor.target = "_blank";
+
+              container.appendChild(anchor);
+              container.appendChild(document.createElement("br"));
             }
 
             const icon = new L.Icon.Default();
             icon.options.className = user.contributor ? "contributor" : "";
-            L.marker(user.coordinates, { icon }).addTo(map).bindPopup(html);
+
+            L.marker(user.coordinates, { icon }).addTo(map).bindPopup(container);
           }
 
           document.getElementById("user-count").innerText = String(data.length);
