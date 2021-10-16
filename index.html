@@ -15,6 +15,11 @@
       integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
       crossorigin=""
     ></script>
+    <script
+      src="https://cdn.jsdelivr.net/gh/dj0001/Leaflet.timezones@c4f81012e5025b0133b3f06110b92427eac0118e/L.timezones.js"
+      integrity="sha512-tVofT+jp87w25dni8POKxzfk9ha8YHydkGQ1RSJVL/yG8zvSX/IGBz8K4cidliE4sfNuhMT23rYPYcLwRFf+Ag=="
+      crossorigin=""
+    ></script>
     <style>
       * {
         box-sizing: border-box;
@@ -75,6 +80,13 @@
               '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
           }).addTo(map);
 
+          L.timezones
+            .setStyle({
+              color: "#2dc1fc",
+              weight: 4,
+            })
+            .addTo(map);
+
           for (const user of data) {
             const container = document.createElement("div");
             const heading = document.createElement("h1");
@@ -95,7 +107,47 @@
             const icon = new L.Icon.Default();
             icon.options.className = user.contributor ? "contributor" : "";
 
-            L.marker(user.coordinates, { icon }).addTo(map).bindPopup(container);
+            L.marker(user.coordinates, { icon })
+              .addTo(map)
+              .bindPopup(() => {
+                // see https://stackoverflow.com/a/38671346/14457064
+                const userBounds = L.latLngBounds(
+                  user.coordinates,
+                  user.coordinates
+                );
+
+                for (const overlay of Object.values(map._layers)) {
+                  if (overlay._layers) {
+                    for (const feature of Object.values(overlay._layers)) {
+                      let bounds;
+                      if (feature.getBounds) {
+                        bounds = feature.getBounds();
+                      } else if (feature._latlng) {
+                        bounds = L.latLngBounds(
+                          feature._latlng,
+                          feature._latlng
+                        );
+                      }
+
+                      if (bounds && userBounds.intersects(bounds)) {
+                        const paragraph =
+                          container.getElementsByTagName("p")[0] ??
+                          document.createElement("p");
+                        paragraph.innerText = `${new Date().toLocaleString(
+                          "sv",
+                          { timeZone: feature.feature.properties.tz_name1st }
+                        )} (${feature.feature.properties.time_zone})`;
+
+                        container.appendChild(paragraph);
+
+                        return container;
+                      }
+                    }
+                  }
+                }
+
+                return container;
+              });
           }
 
           document.getElementById("user-count").innerText = String(data.length);
