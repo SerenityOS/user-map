@@ -623,5 +623,15 @@
       "Website": "https://xslendi.xyz",
       "GitHub": "https://github.com/xslendix"
     }
+  },
+  {
+    "nick": "Pedro Pereira (pmhpereira)",
+    "coordinates": [38.761202, -9.1607843],
+    "links": {
+      "GitHub": "https://github.com/pmhpereira",
+      "Twitter": "https://twitter.com/pmhpereira",
+      "LinkedIn": "https://www.linkedin.com/in/pmhpereira/"
+    },
+    "contributor": true
   }
 ]
