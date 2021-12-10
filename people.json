@@ -633,5 +633,15 @@
       "LinkedIn": "https://www.linkedin.com/in/pmhpereira/"
     },
     "contributor": true
+  },
+  {
+    "nick": "AtkinsSJ",
+    "coordinates": [52.6285, 1.2964],
+    "links": {
+      "GitHub": "https://github.com/atkinssj",
+      "Website": "http://samatkins.co.uk",
+      "LinkedIn": "https://www.linkedin.com/in/atkinssj/"
+    },
+    "contributor": true
   }
 ]
