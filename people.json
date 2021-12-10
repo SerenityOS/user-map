@@ -643,5 +643,14 @@
       "LinkedIn": "https://www.linkedin.com/in/atkinssj/"
     },
     "contributor": true
+  },
+  {
+    "nick": "jamierocks",
+    "coordinates": [52.7081, -2.7544],
+    "links": {
+      "Website": "https://www.jamiemansfield.me/",
+      "GitHub": "https://github.com/jamierocks"
+    },
+    "contributor": true
   }
 ]
