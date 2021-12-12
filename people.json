@@ -660,5 +660,14 @@
       "GitHub": "https://github.com/Dexesttp"
     },
     "contributor": true
+  },
+  {
+    "nick": "xexxa",
+    "coordinates": [59.3897258, 17.9205633],
+    "links": {
+      "GitHub": "https://github.com/xexxa",
+      "Website": "https://serenityos.net/~xexxa/"
+    },
+    "contributor": true
   }
 ]
