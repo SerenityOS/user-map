@@ -669,5 +669,13 @@
       "Website": "https://serenityos.net/~xexxa/"
     },
     "contributor": true
+  },
+  {
+    "nick": "ulmer-a",
+    "coordinates": [47.20041, 9.76719],
+    "links": {
+      "GitHub": "https://github.com/ulmer-a"
+    },
+    "contributor": true
   }
 ]
