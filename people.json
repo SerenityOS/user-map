@@ -677,5 +677,14 @@
       "GitHub": "https://github.com/ulmer-a"
     },
     "contributor": true
+  },
+  {
+    "nick": "timschumi",
+    "coordinates": [48.36, 11.54],
+    "links": {
+      "Website": "https://timschumi.net",
+      "GitHub": "https://github.com/timschumi"
+    },
+    "contributor": true
   }
 ]
