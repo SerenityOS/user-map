@@ -738,5 +738,13 @@
       "Sourcehut": "https://sr.ht/~seirdy",
       "GitHub": "https://github.com/Seirdy"
     }
+  },
+  {
+    "nick": "Bunnbuns",
+    "coordinates": [39.78, -86.1328],
+    "links": {
+      "Website": "https://bunnbuns.net",
+      "GitHub": "https://github.com/Bunnbuns"
+    }
   }
 ]
