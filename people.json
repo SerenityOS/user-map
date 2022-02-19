@@ -686,5 +686,13 @@
       "GitHub": "https://github.com/timschumi"
     },
     "contributor": true
+  },
+  {
+    "nick": "lenny",
+    "coordinates": [39.71654, -104.98147],
+    "links": {
+      "GitHub": "https://github.com/ldm5180"
+    },
+    "contributor": true
   }
 ]
