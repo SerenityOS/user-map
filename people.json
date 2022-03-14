@@ -694,5 +694,13 @@
       "GitHub": "https://github.com/ldm5180"
     },
     "contributor": true
+  },
+  {
+    "nick": "Leon Albrecht - Hendiadyoin",
+    "coordinates": [52.5542957, 13.4624136],
+    "links": {
+      "GitHub": "https://github.com/Hendiadyoin1"
+    },
+    "contributor": true
   }
 ]
