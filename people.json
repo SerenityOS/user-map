@@ -702,5 +702,15 @@
       "GitHub": "https://github.com/Hendiadyoin1"
     },
     "contributor": true
+  },
+  {
+    "nick": "Simon Wanner - skyrising",
+    "coordinates": [48.72155, 10.76808],
+    "links": {
+      "GitHub": "https://github.com/skyrising",
+      "Twitter": "https://twitter.com/skyrising97",
+      "Website": "https://skyrising.xyz"
+    },
+    "contributer": true
   }
 ]
