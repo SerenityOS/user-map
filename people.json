@@ -712,5 +712,13 @@
       "Website": "https://skyrising.xyz"
     },
     "contributor": true
+  },
+  {
+    "nick": "emanuele6",
+    "coordinates": [45.9499962, 8.6333308],
+    "links": {
+      "GitHub": "https://github.com/emanuele6"
+    },
+    "contributor": true
   }
 ]
