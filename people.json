@@ -728,5 +728,15 @@
       "GitHub": "https://github.com/alichraghi"
     },
     "contributor": true
+  },
+  {
+    "nick": "Seirdy",
+    "coordinates": [37.32, -122.02],
+    "links": {
+      "Website": "https://seirdy.one",
+      "Fediverse": "https://pleroma.envs.net/Seirdy",
+      "Sourcehut": "https://sr.ht/~seirdy",
+      "GitHub": "https://github.com/Seirdy"
+    }
   }
 ]
