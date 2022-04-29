@@ -754,5 +754,14 @@
       "Website": "http://paulwratt.isource.net.nz/",
       "GitHub": "https://github.com/paulwratt"
     }
+  },
+  {
+    "nick": "hjalves",
+    "coordinates": [39.749, -7.923],
+    "links": {
+      "Website": "https://halves.dev",
+      "GitHub": "https://github.com/hjalves",
+      "Twitter": "https://twitter.com/hjalves"
+    }
   }
 ]
