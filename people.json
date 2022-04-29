@@ -746,5 +746,14 @@
       "Website": "https://bunnbuns.net",
       "GitHub": "https://github.com/Bunnbuns"
     }
+  },
+  {
+  "nick": "paulwratt",
+  "coordinates": [-36.627472, 174.731577],
+  "links": {
+    "Website": "http://paulwratt.isource.net.nz/",
+    "GitHub": "https://github.com/paulwratt"
+    }
   }
+
 ]
