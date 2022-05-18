@@ -763,5 +763,13 @@
       "GitHub": "https://github.com/hjalves",
       "Twitter": "https://twitter.com/hjalves"
     }
+  },
+  {
+    "nick": "Sauler",
+    "coordinates": [50.0372, 22.0037],
+    "links": {
+      "GitHub": "https://github.com/Sauler"
+    },
+    "contributor": true
   }
 ]
