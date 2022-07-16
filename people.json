@@ -771,5 +771,13 @@
       "GitHub": "https://github.com/Sauler"
     },
     "contributor": true
+  },
+  {
+    "nick": "Kyle Lanmon - lanmonster",
+    "coordinates": [30.2672, 97.7431],
+    "links": {
+      "GitHub": "https://github.com/lanmonster"
+    },
+    "contributor": true
   }
 ]
