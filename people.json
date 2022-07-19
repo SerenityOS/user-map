@@ -387,9 +387,9 @@
     "coordinates": [14.28909, 121.11248],
     "links": {
       "GitHub": "https://github.com/djwisdom",
-      "LinkedIn": "https://www.linkedin.com/in/dennisesternon/",
       "Twitter": "https://twitter.com/djwisdom"
-    }
+    },
+    "contributor": true
   },
   {
     "nick": "bitwitch",
