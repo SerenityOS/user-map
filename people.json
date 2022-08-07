@@ -779,5 +779,15 @@
       "GitHub": "https://github.com/lanmonster"
     },
     "contributor": true
+  },
+  {
+    "nick": "Rob",
+    "coordinates": [-37.98, 145.25],
+    "links": {
+      "Website": "https://robryan.me",
+      "GitHub": "https://github.com/robryanx",
+      "Twitter": "https://twitter.com/_RobRyan"
+    },
+    "contributor": true
   }
 ]
