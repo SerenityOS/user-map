@@ -789,5 +789,13 @@
       "Twitter": "https://twitter.com/_RobRyan"
     },
     "contributor": true
+  },
+  {
+    "nick": "Benjamin Maxwell - MacDue",
+    "coordinates": [53.480759, -2.242631],
+    "links": {
+      "GitHub": "https://github.com/MacDue"
+    },
+    "contributor": true
   }
 ]
