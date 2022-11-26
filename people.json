@@ -1,5 +1,12 @@
 [
   {
+  "nick": "robertshepherdcpp",
+  "coordinates": [52.47867, -1.90848],
+  "links": {
+    "GitHub": "https://github.com/robertshepherdcpp/"
+    }
+  },
+  {
     "nick": "Undefine",
     "coordinates": [50.01052, 22.682],
     "links": {
