@@ -340,8 +340,10 @@
     "links": {
       "GitHub": "https://github.com/tbhaxor",
       "Twitter": "https://twitter.com/tbhaxor",
-      "LinkedIn": "https://linkedin.com/in/tbhaxor"
+      "LinkedIn": "https://linkedin.com/in/tbhaxor",
+      "Website": "https://tbhaxor.com/?source=serenity",
     }
+    "contributor": true
   },
   {
     "nick": "Omerktn",
