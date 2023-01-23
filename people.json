@@ -839,5 +839,16 @@
       "LinkedIn": "https://www.linkedin.com/in/bplaat/"
     },
     "contributor": true
+  },
+  {
+    "nick": "Filiph Siitam Sandström",
+    "coordinates": [58.699, 12.453],
+    "links": {
+      "Website": "https://nordcom.io/",
+      "GitHub": "https://github.com/filiphsps",
+      "Twitter": "https://twitter.com/filiphsandstrom",
+      "LinkedIn": "https://www.linkedin.com/in/filiphsandstrom/"
+    },
+    "contributor": true
   }
 ]
