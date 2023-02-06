@@ -798,5 +798,13 @@
       "GitHub": "https://github.com/MacDue"
     },
     "contributor": true
+  },
+  {
+    "nick": "davidot",
+    "coordinates": [52.55, 5.27],
+    "links": {
+      "GitHub": "https://github.com/davidot"
+    },
+    "contributor": true
   }
 ]
