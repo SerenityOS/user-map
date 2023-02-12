@@ -551,7 +551,8 @@
     "coordinates": [51.5764, 7.0539],
     "links": {
       "GitHub": "https://github.com/Popaulol"
-    }
+    },
+    "contributor": true
   },
   {
     "nick": "Granddave",
