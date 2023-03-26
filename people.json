@@ -144,7 +144,8 @@
     "coordinates": [50.12419, 8.6362],
     "links": {
       "Website": "https://nwex.de",
-      "Mastodon": "https://chaos.social/@networkexception",
+      "Mastodon (chaos.social)": "https://chaos.social/@networkexception",
+      "Mastodon (serenityos.social)": "https://serenityos.social/@networkexception",
       "GitHub": "https://github.com/networkException"
     },
     "contributor": true
