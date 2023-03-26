@@ -134,7 +134,8 @@
     "coordinates": [51.51, -0.12],
     "links": {
       "Website": "https://linus.dev",
-      "Mastodon": "https://chaos.social/@linusgroh",
+      "Mastodon (chaos.social)": "https://chaos.social/@linusgroh",
+      "Mastodon (serenityos.social)": "https://serenityos.social/@linusg",
       "GitHub": "https://github.com/linusg"
     },
     "contributor": true
