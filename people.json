@@ -141,7 +141,7 @@
   },
   {
     "nick": "networkException",
-    "coordinates": [50.10811, 8.68222],
+    "coordinates": [50.12419, 8.6362],
     "links": {
       "Website": "https://nwex.de",
       "Mastodon": "https://chaos.social/@networkexception",
