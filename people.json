@@ -811,5 +811,15 @@
       "GitHub": "https://github.com/davidot"
     },
     "contributor": true
+  },
+  {
+    "nick": "jmdeejay",
+    "coordinates": [46.811413, -71.2545212],
+    "links": {
+      "Website": "https://www.mubeatstudio.com",
+      "GitHub": "https://github.com/jmdeejay",
+      "LinkedIn": "https://www.linkedin.com/in/jean-michel-bourget-4839a719/"
+    },
+    "contributor": true
   }
 ]
