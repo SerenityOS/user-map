@@ -1,5 +1,12 @@
 [
   {
+  "nick": "Kim Kulak",
+  "coordinates": [42.93439,-72.27917],
+  "links": {
+    "GitHub": "https://github.com/kimkulak"
+  }
+}
+  {
     "nick": "Undefine",
     "coordinates": [50.01052, 22.682],
     "links": {
