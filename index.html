@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -113,7 +113,7 @@
                 // see https://stackoverflow.com/a/38671346/14457064
                 const userBounds = L.latLngBounds(
                   user.coordinates,
-                  user.coordinates
+                  user.coordinates,
                 );
 
                 for (const overlay of Object.values(map._layers)) {
@@ -125,7 +125,7 @@
                       } else if (feature._latlng) {
                         bounds = L.latLngBounds(
                           feature._latlng,
-                          feature._latlng
+                          feature._latlng,
                         );
                       }
 
@@ -135,7 +135,7 @@
                           document.createElement("p");
                         paragraph.innerText = `${new Date().toLocaleString(
                           "sv",
-                          { timeZone: feature.feature.properties.tz_name1st }
+                          { timeZone: feature.feature.properties.tz_name1st },
                         )} (${feature.feature.properties.time_zone})`;
 
                         container.appendChild(paragraph);
