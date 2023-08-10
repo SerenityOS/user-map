@@ -828,5 +828,16 @@
       "LinkedIn": "https://www.linkedin.com/in/jean-michel-bourget-4839a719/"
     },
     "contributor": true
+  },
+  {
+    "nick": "Bastiaan van der Plaat - bplaat",
+    "coordinates": [52.011322, 4.710375],
+    "links": {
+      "Website": "https://bplaat.nl",
+      "GitHub": "https://github.com/bplaat",
+      "Twitter": "https://twitter.com/bplaat2",
+      "LinkedIn": "https://www.linkedin.com/in/bplaat/"
+    },
+    "contributor": true
   }
 ]
