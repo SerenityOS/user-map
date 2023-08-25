@@ -851,5 +851,13 @@
       "LinkedIn": "https://www.linkedin.com/in/filiphsandstrom/"
     },
     "contributor": true
+  },
+  {
+    "nick": "Rajiv Kushwaha",
+    "coordinates": [12.991090, 77.683721],
+    "links": {
+      "GitHub": "https://github.com/rajiv-k",
+      "Website": "https://rajiv-k.github.io"
+    }
   }
 ]
