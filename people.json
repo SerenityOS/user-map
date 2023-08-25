@@ -131,7 +131,8 @@
     "nick": "bugaevc",
     "coordinates": [55.752, 37.6175],
     "links": {
-      "Mastodon": "https://mastodon.technology/@bugaevc",
+      "Mastodon (floss.social)": "https://floss.social/@bugaevc",
+      "Mastodon (serenityos.social)": "https://serenityos.social/@bugaevc",
       "GitHub": "https://github.com/bugaevc"
     },
     "contributor": true
