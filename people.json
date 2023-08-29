@@ -851,5 +851,15 @@
       "LinkedIn": "https://www.linkedin.com/in/filiphsandstrom/"
     },
     "contributor": true
+  },
+  {
+    "nick": "nipos",
+    "coordinates": [49.47631, 9.77266],
+    "links": {
+      "Website": "https://www.nikisoft.one",
+      "Git": "https://codeberg.org/nipos",
+      "GitHub": "https://github.com/nipos"
+    },
+    "contributor": true
   }
 ]
