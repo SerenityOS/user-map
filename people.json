@@ -870,5 +870,15 @@
       "LinkedIn": "https://www.linkedin.com/in/adam-harald-joergensen/"
     },
     "contributor": true
+  },
+  {
+    "nick": "Xuekun Li - xack",
+    "coordinates": [23.0673, 113.3850],
+    "links": {
+      "Website": "https://xack.me",
+      "GitHub": "https://github.com/lixk28",
+      "Twitter": "https://twitter.com/lixk28"
+    },
+    "contributor": true
   }
 ]
