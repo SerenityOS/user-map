@@ -861,5 +861,14 @@
       "GitHub": "https://github.com/nipos"
     },
     "contributor": true
+  },
+  {
+    "nick": "adamjoer",
+    "coordinates": [55.77186, 12.50514],
+    "links": {
+      "GitHub": "https://github.com/adamjoer",
+      "LinkedIn": "https://www.linkedin.com/in/adam-harald-joergensen/"
+    },
+    "contributor": true
   }
 ]
