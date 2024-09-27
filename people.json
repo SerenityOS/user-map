@@ -869,5 +869,13 @@
       "LinkedIn": "https://www.linkedin.com/in/adam-harald-joergensen/"
     },
     "contributor": true
+  },
+  {
+    "nick": "uku",
+    "coordinates": [58.3776, 26.7290],
+    "links": {
+      "GitHub": "https://github.com/ukuloskit"
+    },
+    "contributor": true
   }
 ]
