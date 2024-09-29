@@ -869,5 +869,11 @@
       "LinkedIn": "https://www.linkedin.com/in/adam-harald-joergensen/"
     },
     "contributor": true
+  },
+  {
+    "nick": "pzabkiewi",
+    "coordinates": [51.7235, 19.5005],
+    "links": {},
+    "contributor": false
   }
 ]
