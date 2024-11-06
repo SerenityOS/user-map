@@ -869,5 +869,16 @@
       "LinkedIn": "https://www.linkedin.com/in/adam-harald-joergensen/"
     },
     "contributor": true
+  },
+  {
+    "nick": "ninadsachania",
+    "coordinates": [23.03431, 72.57924],
+    "links": {
+      "Website": "https://ninadsachania.github.io",
+      "GitHub": "https://github.com/ninadsachania",
+      "LinkedIn": "https://www.linkedin.com/in/ninadsachania",
+      "Twitter": "https://x.com/NinadSachania"
+    },
+    "contributor": true
   }
 ]
